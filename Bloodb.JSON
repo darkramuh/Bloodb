@@ -2,15 +2,15 @@
   "meta": {
     "code": "d44a3893-8652-46ff-8fe1-b82b05f143a8",
     "name": "Bloodborne - City of the Unseen",
-    "description": "",
+    "description": "8-scenario custom campaign where a mysterious 'sleeping sickness' strikes Arkham, Massachusetts",
     "author": "aughhhh",
     "language": "en",
     "external_link": "",
-    "banner_url": "https://www.relyonhorror.com/wp-content/uploads/2015/04/BR7.jpg",
+    "banner_url": "https://miro.medium.com/v2/resize:fit:3840/format:webp/0*-NH3KFk8MNeEotiX.jpg",
     "types": [
       "investigators"
     ],
-    "status": "draft",
+    "status": "final",
     "date_updated": "2026-01-10T23:55:00",
     "generator": "Zoop 3.3, AHLCG plugin 9.0, Strange Eons 3.3.4241"
   },
