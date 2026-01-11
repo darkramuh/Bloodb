@@ -68,7 +68,7 @@
               "max": 3
             },
             "limit": 5,
-            "error": "You cannot have more than 5 Mystic cards (0-3)."
+            "error": "You cannot have more than 5 Mystic cards."
           }
         ],
         "deck_limit": 1,
@@ -201,7 +201,7 @@
               "max": 3
             },
             "limit": 5,
-            "error": "You cannot have more than 5 chosen secondary class cards (0-3)."
+            "error": "You cannot have more than 5 chosen secondary class cards."
           }
         ],
         "deck_limit": 1,
@@ -233,7 +233,7 @@
         "flavor": "\"Perhaps this will help, if only in some small way.\"",
         "back_name": "Cecily Jossef",
         "back_flavor": "Dr. Jossef's colleagues would describe her as unflinching and uncompromising, and Cecily would have previously been inclined to agree. Perhaps that is why she chose to enter the field of pediatrics after graduating summa cum laude from the Royal College of Physicians in Edinburgh; after all, children will do as they're told, while grown men will claim to know better than a lady doctor even as she holds the knife. After Arkham and the mysterious city of Yharnam merged together, however, Cecily can no longer claim to know how to describe herself at all; the two distinct voices that have appeared in her mind battle each other constantly, and Cecily fears that before long, there will be little of herself left when one of them finally assumes control.",
-        "back_text": "<b>Deck Size</b>: 30\n<b>Secondary Class Choice</b>: At deck creation, choose either Survivor ([survivor]) or Guardian ([guardian]).\n<b>Deckbuilding Options</b>: Mystic ([mystic]) level 0-3, Neutral cards 0-5, Spirit cards 0-5, Science Cards 0-3, up to 5 cards of your chosen secondary class level 0-3\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 copy of Dr. Jossef's Clarified Blood, 2 copies of Alternating Self, 1 random basic weakness.",
+        "back_text": "<b>Deck Size</b>: 30\n<b>Secondary Class Choice</b>: At deck creation, choose either Survivor ([survivor]) or Guardian ([guardian]).\n<b>Deckbuilding Options</b>: Mystic ([mystic]) level 0-3, Neutral cards 0-5, <b>Spirit</b> cards 0-5, <b>Science</b> Cards 0-3, up to 5 cards of your chosen secondary class level 0-3\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 copy of Dr. Jossef's Clarified Blood, 2 copies of Alternating Self, 1 random basic weakness.",
         "deck_requirements": "size:30, card:7b2d5a8c-9f1e-43d1-b0a2-6e8c7d4f3b1a, card:1e4c9b2a-8f3d-4210-90a5-b7d6c3e2f1a8, card:9d5f3b2a-1e4c-4021-8f3d-6b7c5e2a1f0d, random:subtype:basicweakness",
         "deck_options": [
           {
@@ -282,7 +282,7 @@
               "max": 3
             },
             "limit": 5,
-            "error": "You cannot have more than 5 chosen secondary class cards (0-3)."
+            "error": "You cannot have more than 5 chosen secondary class cards."
           }
         ],
         "deck_limit": 1,
@@ -524,7 +524,7 @@
               "max": 3
             },
             "limit": 5,
-            "error": "You cannot have more than 5 Guardian cards (0-3)."
+            "error": "You cannot have more than 5 Guardian cards."
 
           }
         ],
@@ -728,7 +728,7 @@
               "max": 3
             },
             "limit": 5,
-            "error": "You cannot have more than 5 Rogue cards (0-3)."
+            "error": "You cannot have more than 5 Rogue cards."
           }
         ],
         "deck_limit": 1,
