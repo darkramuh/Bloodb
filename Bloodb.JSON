@@ -505,8 +505,7 @@
           },
           {
             "name": "Eileen's Engage and Disengage",
-            "column": "code",
-            "query": [
+            "card": [
               "08042",
               "10064",
               "01055",
