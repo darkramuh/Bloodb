@@ -503,11 +503,10 @@
               "max": 5
             }
           },
-          {
-    "id": ["01016", "01020"],
-    "limit": 5,
-    "error": "You can only have 5 of these specific cards"
-  },
+         {
+      "id": ["01016", "02190", "03110"],
+      "limit": 3
+    },
           {
             "name": "Guardian cards",
             "faction": [
