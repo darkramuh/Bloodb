@@ -504,9 +504,10 @@
             }
           },
          {
-      "id": ["01016", "02190", "03110"],
-      "limit": 3
-    },
+    "id": ["01016", "01020"],
+    "limit": 5,
+    "error": "Must be one of these specific cards"
+  },
           {
             "name": "Guardian cards",
             "faction": [
