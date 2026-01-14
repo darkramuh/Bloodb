@@ -43,16 +43,7 @@
           },
           {
             "text": [
-              "place [0-9] doom",
-              "remove [0-9] doom",
-              "add [0-9] doom",
-              "remove all doom",
-              "cancel [0-9] doom",
-              "Place [0-9] doom",
-              "Remove [0-9] doom",
-              "Add [0-9] doom",
-              "Remove all doom",
-              "Cancel [0-9] doom"
+              "(?:[Pp]lace|[Rr]emove|[Aa]dd|[Cc]ancel)\\s+(?:\\d+|all)\\s+doom"
             ],
             "level": {
               "min": 0,
@@ -503,10 +494,15 @@
               "max": 5
             }
           },
-         {
-              "text": ["(?:types\\s+include\\s+[^.]*engage|<b>[Ee]ngage<\\\/b>|(?<![Ww]hen\\s+you\\s+)(?<!after\\s+you\\s+)[Ee]ngag(?:e|es|ing)\\s+(?:an?\\b|it\\b|that\\b|the\\b|any\\s+number\\s+of)\\s*(?:enem(?:y|ies))?(?!\\s+offerings)|(?<!do\\s+not\\s+)[Dd]isengag(?:e|es|ing)\\s+(?:with|from|it)\\s*(?:that\\b|it\\b|an?\\b|the\\b|from\\s+all\\s+investigators)?|[Dd]isengag(?:e|es|ing)\\s+from\\s+each(?:\\s+other)?\\s+enem(?:y|ies)|spawn\\s+it\\s+(?:exhausted\\s+and\\s+)?engaged\\s+with\\s+you|then\\s+engages\\s+you|may\\s+engage\\s+the\\s+attacked\\s+enemy|cannot\\s+engage\\s+you)"],
-              "level": { "min": 0, "max": 5 }
-            },
+          {
+            "text": [
+              "(?:types\\s+include\\s+[^.]*engage|<b>[Ee]ngage<\\\/b>|(?<![Ww]hen\\s+you\\s+)(?<!after\\s+you\\s+)[Ee]ngag(?:e|es|ing)\\s+(?:an?\\b|it\\b|that\\b|the\\b|any\\s+number\\s+of)\\s*(?:enem(?:y|ies))?(?!\\s+offerings)|(?<!do\\s+not\\s+)[Dd]isengag(?:e|es|ing)\\s+(?:with|from|it)\\s*(?:that\\b|it\\b|an?\\b|the\\b|from\\s+all\\s+investigators)?|[Dd]isengag(?:e|es|ing)\\s+from\\s+each(?:\\s+other)?\\s+enem(?:y|ies)|spawn\\s+it\\s+(?:exhausted\\s+and\\s+)?engaged\\s+with\\s+you|then\\s+engages\\s+you|may\\s+engage\\s+the\\s+attacked\\s+enemy|cannot\\s+engage\\s+you)"
+            ],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
           {
             "name": "Guardian cards",
             "faction": [
