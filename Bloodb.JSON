@@ -19,7 +19,7 @@
       {
         "back_flavor": "Alfred was a boy who knew the weight of righteousness. He carried it in his bones, as if kindness and decency were his sword and shield. But there was a darkness blooming in him, a thing he could not name, and a thing others could not see underneath his kind eyes. When he came of age, he enrolled in Miskatonic University's seminary school in hopes of taming that darkness with piety and devotion.\n     \nBut Alfred was a man now, and he knew that the desire to be a good person alone could never be enough. The whispers of cruelty, of hate, and of malice were always there in his quiet moments, blackening his soul. For the goodness in him to win, he would have to act- before it became too late.",
         "back_name": "Alfred Wheeler",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian ([guardian]) cards level 0-3, Neutral cards 0-5, Cards that add, remove, or cancel doom level 0-5, up to 5 Mystic ([mystic]) cards level 0-3.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian ([guardian]) cards level 0-3, Neutral cards 0-5, Cards that add, remove, or cancel doom level 0-5, up to 5 Mystic ([mystic]) cards level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 copy of Piety, 1 copy of Murderous Urges, 1 random basic weakness.",
         "code": "8a6e0c3d-9e7e-450b-8114-735bc89466e7",
         "deck_requirements": "size:30, card:edf1cdfb-8fd5-48bd-964f-c0537e9312f7, card:faa8ce81-8578-498e-9468-ca401d9550da, random:subtype:basicweakness",
         "deck_options": [
