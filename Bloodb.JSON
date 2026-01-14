@@ -483,42 +483,12 @@
         "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue ([rogue]) cards level 0-3, Neutral cards 0-5, Cards that \"engage\" or \"disengage\" level 0-5, up to 5 Guardian ([guardian]) cards level 0-3.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 copy of Blades of Mercy, 1 copy of Jack Crawford, 1 random basic weakness.",
         "deck_requirements": "size:30, card:blades-mercy, card:jack-crawford, random:subtype:basicweakness",
         "deck_options": [
-          {
-            "name": "Rogue cards",
-            "faction": [
-              "rogue"
-            ],
-            "level": {
-              "min": 0,
-              "max": 3
-            }
-          },
-          {
-            "name": "Neutral cards",
-            "faction": [
-              "neutral"
-            ],
-            "level": {
-              "min": 0,
-              "max": 5
-            }
-          },
+          
          {
               "text": ["(?:types\\s+include\\s+[^.]*engage|<b>[Ee]ngage<\\\/b>|(?<![Ww]hen\\s+you\\s+)(?<!after\\s+you\\s+)[Ee]ngag(?:e|es|ing)\\s+(?:an?\\b|it\\b|that\\b|the\\b|any\\s+number\\s+of)\\s*(?:enem(?:y|ies))?(?!\\s+offerings)|(?<!do\\s+not\\s+)[Dd]isengag(?:e|es|ing)\\s+(?:with|from|it)\\s*(?:that\\b|it\\b|an?\\b|the\\b|from\\s+all\\s+investigators)?|[Dd]isengag(?:e|es|ing)\\s+from\\s+each(?:\\s+other)?\\s+enem(?:y|ies)|spawn\\s+it\\s+(?:exhausted\\s+and\\s+)?engaged\\s+with\\s+you|then\\s+engages\\s+you|may\\s+engage\\s+the\\s+attacked\\s+enemy|cannot\\s+engage\\s+you)"],
               "level": { "min": 0, "max": 5 }
-            },
-          {
-            "name": "Guardian cards",
-            "faction": [
-              "guardian"
-            ],
-            "level": {
-              "min": 0,
-              "max": 3
-            },
-            "limit": 5,
-            "error": "You cannot have more than 5 Guardian cards."
-          }
+            }
+          
         ],
         "deck_limit": 1,
         "pack_code": "d44a3893-8652-46ff-8fe1-b82b05f143a8",
