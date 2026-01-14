@@ -504,7 +504,7 @@
             }
           },
          {
-              "text": ["(?:<b>Engage<\/b>|Disengage\\s+from\\s+each|spawn\\s+it\\s+(?:exhausted\\s+and\\s+)?engaged\\s+with\\s+you|then\\s+engages\\s+you|may\\s+engage\\s+the\\s+attacked\\s+enemy|cannot\\s+engage\\s+you|Disengage\\s+(?:from|it)\\s+(?:from\\s+)?all\\s+investigators|may\\s+disengage\\s+from\\s+each\\s+enemy\\s+and\\s+move|Replenish\\s+1\\s+of\\s+these\\s+offerings\\s+after\\s+you\\s+engage)"],
+              "text": ["(?:<b>Engage<\\/b>|Disengage\\s+from\\s+each|spawn\\s+it\\s+(?:exhausted\\s+and\\s+)?engaged\\s+with\\s+you|then\\s+engages\\s+you|may\\s+engage\\s+the\\s+attacked\\s+enemy|cannot\\s+engage\\s+you|Disengage\\s+(?:from|it)\\s+(?:from\\s+)?all\\s+investigators|may\\s+disengage\\s+from\\s+each\\s+enemy\\s+and\\s+move|Replenish\\s+1\\s+of\\s+these\\s+offerings\\s+after\\s+you\\s+engage)"],
               "level": { "min": 0, "max": 5 }
             },
           {
