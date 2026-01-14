@@ -504,10 +504,10 @@
             }
           },
          {
-
-    "id": "09107"
-
-  },
+  "query": "code:01016|01020|09107",
+  "limit": 5,
+  "error": "You can only take 5 of these specific cards."
+},
           {
             "name": "Guardian cards",
             "faction": [
