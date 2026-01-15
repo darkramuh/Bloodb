@@ -391,19 +391,13 @@
               "cancel all damage",
               "Cancel up to [0-9]+ damage",
               "Cancel all attacks",
-              "cancel that enemy's attack"
+              "cancel that enemy's attack",
+              "lose actions, take damage,"
             ],
             "level": {
               "min": 0,
               "max": 5
             }
-          },
-          {
-            "column": "code",
-            "query": [
-              "05032",
-              "05280"
-            ]
           }
         ],
         "deck_limit": 1,
